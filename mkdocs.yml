@@ -1,8 +1,8 @@
-site_name: Practica2 - AUTENTICACIÓN CON NGINX
+site_name: Practica2.3 - Configuracion de Proxy Inverso
 nav:
   - Home: https://Yahyalimouni.github.io
   - Practica2: https://Yahyalimouni.github.io/practica2/
-  
+
 
 theme:
   name: material  # Use Material theme for MkDocs
